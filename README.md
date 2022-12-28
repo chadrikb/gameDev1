@@ -1,3 +1,3 @@
 # gameDev1
 
-:pizza: :coffee: wide Nathan
+:pizza: :coffee: wide Nathan Chadrik pipik
